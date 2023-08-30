@@ -1,2 +1,2 @@
-# Imagetotextconvert
-Mobile application development project on converting Image to Text.
+# Text-Scanner-App
+Simple OCR App, it is use to scanner the text from the Picture.
